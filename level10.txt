@@ -1,0 +1,5 @@
+a = [1, 11, 21, 1211, 111221, 
+This is called "look and say" sequence
+You can look up the 31st item in 
+https://oeis.org/A005150
+https://oeis.org/A005341
