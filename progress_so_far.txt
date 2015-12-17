@@ -6,3 +6,4 @@ level8: http://www.pythonchallenge.com/pc/def/integrity.html
 username: huge
 password: file
 level9: http://www.pythonchallenge.com/pc/return/good.html
+level10: http://www.pythonchallenge.com/pc/return/bull.html
